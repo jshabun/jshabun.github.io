@@ -3,15 +3,15 @@
   "username": "jshabun",
   "name": "Joshua Shabun",
   "userimg": "https://avatars.githubusercontent.com/u/33816145?v=4",
-  "sort": "updated",
-  "order": "desc",
+  "sort": "created",
+  "order": "asc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": null,
+  "linkedin": "joshua-shabun",
   "medium": null,
   "dribbble": null
  }
