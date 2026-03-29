@@ -1,13 +1,22 @@
-const CACHE_NAME = 'pepcalc-v1';
+const CACHE_NAME = 'pepcalc-v2';
 
 const PRECACHE = [
   '/pepcalc/',
   '/pepcalc/assets/index.js',
   '/pepcalc/assets/index.css',
   '/pepcalc/manifest.json',
+  '/pepcalc/icons/apple-touch-icon.png',
   '/pepcalc/icons/icon-192.png',
   '/pepcalc/icons/icon-512.png',
   '/pepcalc/icons/icon.svg',
+  '/pepcalc/icons/splash-750x1334.png',
+  '/pepcalc/icons/splash-1080x2340.png',
+  '/pepcalc/icons/splash-1170x2532.png',
+  '/pepcalc/icons/splash-1179x2556.png',
+  '/pepcalc/icons/splash-1206x2622.png',
+  '/pepcalc/icons/splash-1284x2778.png',
+  '/pepcalc/icons/splash-1290x2796.png',
+  '/pepcalc/icons/splash-1320x2868.png',
 ];
 
 // Install: pre-cache the app shell
